@@ -4,6 +4,7 @@
 
 1. Git clone this repo into a project folder and create a virtual environment.
 ```
+cd project-folder/
 python3 -m venv <environment_name>
 source <environment_name>/bin/activate
 ```
