@@ -5,6 +5,8 @@
 1. Git clone this repo into a project folder and run main.py.
 ```
 cd project-folder/
+git clone https://github.com/westoleaboat/sqlite-database.git
+cd sqlite-database/
 python3 main.py
 ```
 
